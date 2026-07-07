@@ -6,7 +6,7 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 113.665 29.845)
+		(at 168.275 31.75)
 		(size 51.435 34.29)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22,7 +22,7 @@
 		)
 		(uuid "4e5aeb1f-380e-4932-80fa-4846dd2c75eb")
 		(property "Sheetname" "vu"
-			(at 113.665 29.1334 0)
+			(at 168.275 31.0384 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33,7 +33,7 @@
 			)
 		)
 		(property "Sheetfile" "vu.kicad_sch"
-			(at 113.665 64.7196 0)
+			(at 168.275 66.6246 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -52,7 +52,99 @@
 		)
 	)
 	(sheet
-		(at 30.48 29.845)
+		(at 168.275 101.6)
+		(size 51.435 34.925)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "6dd5f017-49fe-4676-ae3a-238f34d6270b")
+		(property "Sheetname" "radio"
+			(at 168.275 100.8884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "radio.kicad_sch"
+			(at 168.275 137.1096 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "outpost-kits"
+				(path "/2b4acb03-95a4-4f7d-960f-b2e1be1f20ba"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 85.725 101.6)
+		(size 47.625 34.925)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "7ce91d5f-0e53-4d1b-bcf3-6786d4a02609")
+		(property "Sheetname" "continuity"
+			(at 85.725 100.8884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "continuity.kicad_sch"
+			(at 85.725 137.1096 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "outpost-kits"
+				(path "/2b4acb03-95a4-4f7d-960f-b2e1be1f20ba"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 85.09 31.75)
 		(size 48.26 34.29)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -68,7 +160,7 @@
 		)
 		(uuid "d3c2aadd-a2b9-42eb-b932-359bd2337733")
 		(property "Sheetname" "dice"
-			(at 30.48 29.1334 0)
+			(at 85.09 31.0384 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -79,7 +171,7 @@
 			)
 		)
 		(property "Sheetfile" "dice.kicad_sch"
-			(at 30.48 64.7196 0)
+			(at 85.09 66.6246 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
