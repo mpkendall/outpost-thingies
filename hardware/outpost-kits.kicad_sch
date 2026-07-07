@@ -2,9 +2,101 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid 2b4acb03-95a4-4f7d-960f-b2e1be1f20ba)
+	(uuid "2b4acb03-95a4-4f7d-960f-b2e1be1f20ba")
 	(paper "A4")
 	(lib_symbols)
+	(sheet
+		(at 113.665 29.845)
+		(size 51.435 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4e5aeb1f-380e-4932-80fa-4846dd2c75eb")
+		(property "Sheetname" "vu"
+			(at 113.665 29.1334 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "vu.kicad_sch"
+			(at 113.665 64.7196 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "outpost-kits"
+				(path "/2b4acb03-95a4-4f7d-960f-b2e1be1f20ba"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 30.48 29.845)
+		(size 48.26 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d3c2aadd-a2b9-42eb-b932-359bd2337733")
+		(property "Sheetname" "dice"
+			(at 30.48 29.1334 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "dice.kicad_sch"
+			(at 30.48 64.7196 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "outpost-kits"
+				(path "/2b4acb03-95a4-4f7d-960f-b2e1be1f20ba"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
