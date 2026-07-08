@@ -1626,6 +1626,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C70376"
+			(at 162.56 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "53bba2bb-7c5a-4c40-9eb7-4dcf13aa2277")
 		)
@@ -1676,7 +1687,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 139.7 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -1699,6 +1710,17 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 139.7 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2848520"
 			(at 139.7 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -1806,6 +1828,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=E 2=B 3=C"
+			(at 144.78 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2874602"
 			(at 144.78 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -2024,7 +2057,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 130.81 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -2048,6 +2081,17 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 130.81 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2896925"
+			(at 130.81 88.9 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2138,6 +2182,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 154.94 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C52034661"
 			(at 154.94 82.55 0)
 			(hide yes)
 			(show_name no)

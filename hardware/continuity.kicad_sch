@@ -1028,6 +1028,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C70376"
+			(at 128.27 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "99691102-900d-4b8d-afb5-efe66407aba5")
 		)
@@ -1337,6 +1348,17 @@
 			)
 		)
 		(property "Description" "Buzzer, polarized"
+			(at 153.67 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C49246930"
 			(at 153.67 80.01 0)
 			(hide yes)
 			(show_name no)

@@ -2581,6 +2581,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C49304893"
+			(at 115.57 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c9753fe2-7151-441d-a7ea-b52d96fe81a2")
 		)
@@ -2819,7 +2830,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 115.57 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -2842,6 +2853,17 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 115.57 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2896924"
 			(at 115.57 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -2958,6 +2980,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=+ 2=-"
+			(at 96.52 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C70376"
 			(at 96.52 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -3095,7 +3128,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 115.57 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -3118,6 +3151,17 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 115.57 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2896955"
 			(at 115.57 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -3286,6 +3330,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C141367"
+			(at 194.31 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "1651bf62-c6ff-46a0-bc88-e7511ac48ae1")
 		)
@@ -3380,6 +3435,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 138.43 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C52750873"
 			(at 138.43 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -3542,6 +3608,17 @@
 		)
 		(property "Description" "7 segment decoder and counter"
 			(at 168.91 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C51912176"
+			(at 167.64 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
