@@ -67,7 +67,7 @@
 			(color 0 0 0 0)
 		)
 		(uuid "6dd5f017-49fe-4676-ae3a-238f34d6270b")
-		(property "Sheetname" "radio"
+		(property "Sheetname" "conductivity"
 			(at 168.275 100.8884 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -78,7 +78,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "radio.kicad_sch"
+		(property "Sheetfile" "conductivity.kicad_sch"
 			(at 168.275 137.1096 0)
 			(show_name no)
 			(do_not_autoplace no)

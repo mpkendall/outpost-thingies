@@ -646,7 +646,7 @@
         "uuid": "2b4acb03-95a4-4f7d-960f-b2e1be1f20ba"
       }
     ],
-    "used_designators": "RV1,MK1,U5,#PWR17-20,BT4,R3-5",
+    "used_designators": "RV1,MK1,U5,D1,#PWR17-23,BT4-5,R3-7,Q1,J2-3",
     "variants": []
   },
   "sheets": [
@@ -668,7 +668,7 @@
     ],
     [
       "6dd5f017-49fe-4676-ae3a-238f34d6270b",
-      "radio"
+      "conductivity"
     ]
   ],
   "text_variables": {},
